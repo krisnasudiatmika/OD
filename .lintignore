@@ -1,0 +1,10 @@
+__snapshots__
+android
+coverage
+ios
+node_modules
+package-lock.json
+package.json
+babel.config.js
+metro.config.js
+jest.preprocessor.js
